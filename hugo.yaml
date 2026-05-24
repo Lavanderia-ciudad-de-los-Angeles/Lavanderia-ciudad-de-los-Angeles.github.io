@@ -1,11 +1,11 @@
-baseURL: 'https://lavanderiavillaverdebajo.github.io/'
+baseURL: 'https://lavanderia-ciudad-de-los-angeles.github.io/'
 languageCode: 'en-US'
-title: 'Lavandería autoservicio Verbena de la Paloma - Villaverde'
+title: 'Lavandería autoservicio Ciudad de los Angeles'
 theme: 'kopi'
 params:
-  subtitle: 'Toda la información de la lavandería autoservicio de la avenida Verbena de la Paloma'
+  subtitle: 'Toda la información de la lavandería autoservicio de la Ciduad de los Ángeles an la Avenida Verbena de la Paloma'
   author:
-    name: "Lavandería autoservicio Verbena de la Paloma"
+    name: "Lavandería autoservicio de la Ciudad de los Ángeles en la Avenida Verbena de la Paloma"
     bio: "La mejor lavandería autoservicio de Villaverde"
     link: "/about"
     role: "Lavandería"

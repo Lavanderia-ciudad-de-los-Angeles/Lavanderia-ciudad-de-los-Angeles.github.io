@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lavandería autoservicio de la Ciudad de los Angeles en la Avenida Verbena de la Paloma on Lavandería autoservicio Verbena de la Paloma - Villaverde</title>
+    <title>Lavandería autoservicio de la Ciudad de los Angeles en la Avenida Verbena de la Paloma on Lavandería autoservicio Ciudad de los Angeles</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Lavandería autoservicio de la Ciudad de los Angeles en la Avenida Verbena de la Paloma on Lavandería autoservicio Verbena de la Paloma - Villaverde</description>
+    <description>Recent content in Lavandería autoservicio de la Ciudad de los Angeles en la Avenida Verbena de la Paloma on Lavandería autoservicio Ciudad de los Angeles</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Información</title>
+      <link>http://localhost:1313/informacion/</link>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/informacion/</guid>
+      <description>&lt;h2 id=&#34;-lavandería-autoservicio-de-la-ciudad-de-los-ángeles&#34;&gt;🧺 Lavandería Autoservicio de la Ciudad de los Ángeles&lt;/h2&gt;&#xA;&lt;p&gt;Limpieza fácil, rápida y de calidad en el corazón de Madrid&lt;/p&gt;&#xA;&lt;p&gt;📍 Dirección: Avenida Verbena de la Paloma, Nº 37 – Madrid&lt;/p&gt;&#xA;&lt;p&gt;📞 Teléfono: 673-246-634&lt;/p&gt;&#xA;&lt;p&gt;🕘 Horario de apertura: todos los días de 9:00 a 22:00&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d760.0843788067232!2d-3.695242819162471!3d40.35703995419231!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4226e42a1abe4b%3A0x4ffeb5150dcc93f9!2sAv.%20de%20la%20Verbena%20de%20la%20Paloma%2C%2037%2C%20Villaverde%2C%2028041%20Madrid!5e0!3m2!1ses!2ses!4v1778409878691!5m2!1ses!2ses&#34; &#xD;&#xA;&#x9;width=&#34;600&#34; height=&#34;650&#34; style=&#34;border:0;&#34; allowfullscreen=&#34;&#34; loading=&#34;lazy&#34; referrerpolicy=&#34;no-referrer-when-downgrade&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;h2 id=&#34;-por-qué-elegirnos&#34;&gt;🧼 ¿Por qué elegirnos?&lt;/h2&gt;&#xA;&lt;p&gt;En &lt;strong&gt;Lavandería Autoservicio de la Ciudad de los Ángeles&lt;/strong&gt; sabemos que es tan importante tu tiempo como cuidar tu ropa. Por eso hemos creado un espacio&#xA;amplio, limpio y cómodo, donde lavar y secar tu ropa sea una tarea sencilla y agradable.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>¡Nos mudamos! Nueva lavandería en la Ciudad de los Ángeles en la Avenida Verbena de la Paloma</title>
       <link>http://localhost:1313/post/traslado-nuevo-local/</link>
