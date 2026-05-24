@@ -29,11 +29,11 @@ amplio, limpio y cómodo, donde lavar y secar tu ropa sea una tarea sencilla y a
 
 Contamos con maquinaria profesional de la reconocida marca **Electrolux**, garantizando los mejores resultados en cada lavado:
 
-🧺 2 lavadoras de 12 kg – Ideales para ropa de diario, edredones pequeños o cargas familiares.
+🧺 2 lavadoras de 12 kg: Ideales para ropa de diario, edredones pequeños o cargas familiares.
 
-🧺 2 lavadoras de 15 kg – Perfectas para cargas grandes, mantas o ropa de varias personas.
+🧺 2 lavadoras de 15 kg: Perfectas para cargas grandes, mantas o ropa de varias personas.
 
-🔄 3 secadoras de 15 kg – Ropa seca y suave en minutos, sin ocupar espacio en casa.
+🔄 3 secadoras de 20 kg: Ropa seca y suave en minutos, sin ocupar espacio en casa.
 
 Todas nuestras máquinas son de máxima calidad, eficientes y cuidadas a diario.
 
@@ -41,9 +41,9 @@ Todas nuestras máquinas son de máxima calidad, eficientes y cuidadas a diario.
 
 Aceptamos dos métodos de pago para adaptarnos a ti:
 
-💰 Monedas – Disponemos de máquina de cambio de billetes dentro del local.
+💰 Monedas: Disponemos de máquina de cambio de billetes dentro del local.
 
-💳 Tarjeta de crédito – Paga rápido y seguro sin necesidad de efectivo.
+💳 Tarjeta de crédito: Paga rápido y seguro sin necesidad de efectivo.
 
 🕘 Horario de apertura
 De lunes a domingo
@@ -60,6 +60,14 @@ Aunque es 100% autoservicio, si prefieres resolver dudas o recibir ayuda en pers
 Y si prefieres ver las instrucciones sobre cómo utilizar nuestras máquinas, puedes ver este vídeo:
 
 <iframe width="560" height="515" src="https://www.youtube.com/embed/2bXnkuTMnUc" frameborder="0" allowfullscreen></iframe>
+
+## Precios
+
+🧺 Lavadoras de 12 kg: 5€ por lavado.
+
+🧺 Lavadoras de 15 kg: 6€ por lavado.
+
+🔄 Secadoras de 20 kg: 4€ para 16 minutos de secado, 5€ para 20 minutos de secado, 6€ para 24 minutos de secado.
 
 ## ✨ Un espacio pensado para ti
 
