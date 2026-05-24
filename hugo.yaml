@@ -1,0 +1,38 @@
+baseURL: 'https://lavanderiavillaverdebajo.github.io/'
+languageCode: 'en-US'
+title: 'Lavandería autoservicio Verbena de la Paloma - Villaverde'
+theme: 'kopi'
+params:
+  subtitle: 'Toda la información de la lavandería autoservicio de la avenida Verbena de la Paloma'
+  author:
+    name: "Lavandería autoservicio Verbena de la Paloma"
+    bio: "La mejor lavandería autoservicio de Villaverde"
+    link: "/about"
+    role: "Lavandería"
+
+menus:
+  main:
+    - name: 'Home'
+      pageRef: '/'
+      weight: 10
+
+module:
+  hugoVersion:
+    extended: true
+    min: '0.146.0'
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+mediaTypes:
+  application/radio+json:
+    suffixes:
+      - json
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
