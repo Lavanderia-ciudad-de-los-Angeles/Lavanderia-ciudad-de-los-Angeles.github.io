@@ -77,6 +77,7 @@ Preparar la ropa de invierno para el verano no es una tarea pesada si cuentas co
 te ayudamos a que tus prendas lleguen en perfecto estado al próximo otoño. Sin polillas, sin manchas viejas, sin malos olores.
 
 📍 **Visítanos en Avenida Verbena de la Paloma, 35 – Ciudad de los Ángeles**
+
 📞 ¿Dudas? Llámanos al 673-246-634 o pregúntanos en persona de lunes a sábado de 10:30 a 14:00.
 
 *¡Que el verano te pille con la ropa de invierno bien guardada y lista para brillar cuando vuelva el frío!* ☀️🧺❄️
