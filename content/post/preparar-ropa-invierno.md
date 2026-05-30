@@ -31,7 +31,6 @@ lavadora o una chaqueta de lana que encoge con el agua caliente… Son problemas
 En **Lavandería Verbena de la Paloma** te ofrecemos todo lo que necesitas para dejar tu ropa de invierno impecable antes de guardarla:
 
 - **Máquinas de gran capacidad** (hasta 18 kg): ideales para edredones, fundas nórdicas, abrigos largos o varias prendas a la vez.
-- **Programas específicos para tejidos delicados** (lana, seda, plumas, sintéticos).
 - **Secadoras industriales de alta eficiencia**: secan en menos tiempo y con menos calor agresivo que una secadora doméstica, evitando 
 que la lana se apelmace o que el plumón se apelotone.
 - **Temperatura del agua regulable**: lavado en frío para prendas que lo requieren, o agua caliente para eliminar bacterias y ácaros.
