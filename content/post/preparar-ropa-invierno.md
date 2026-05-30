@@ -65,7 +65,7 @@ Una vez que hayas lavado y secado tus prendas en nuestra lavandería, sigue esto
 ## 📍 ¿Dónde encontrarnos?
 
 Estamos en pleno corazón de la Ciudad de los Ángeles, en la **Avenida Verbena de la Paloma**, con fácil aparcamiento y horarios amplios 
-(de 8:00 a 22:30 todos los días). No necesitas nada, solo traer tu ropa de invierno y disfrutar de máquinas modernas, limpias y 
+(de 8:30 a 22:30 todos los días). No necesitas nada, solo traer tu ropa de invierno y disfrutar de máquinas modernas, limpias y 
 con asistencia por las mañana si te queda alguna duda.
 
 
