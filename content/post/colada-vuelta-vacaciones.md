@@ -1,4 +1,11 @@
-﻿# 🧺 ¿Vuelves de vacaciones con la maleta llena de ropa sucia? 
+﻿+++
+title = "Colada de vuelta de vacaciones"
+date = "2026-09-03"
+description = "Prepara en la lavandería autoservicio de la Ciudad de los Ángeles tu colada de vuelta de vacaciones"
+tags = [ "Artículos" ]
++++
+
+# 🧺 ¿Vuelves de vacaciones con la maleta llena de ropa sucia? 
 # ¡Esta es la solución que estabas buscando!
 
 Las vacaciones son sinónimo de desconexión, aventura y buenos momentos. Pero hay algo que inevitablemente las acompaña: 
