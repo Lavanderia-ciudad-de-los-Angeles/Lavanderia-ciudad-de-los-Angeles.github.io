@@ -1,6 +1,6 @@
 ﻿---
-title: Preguntas frecuentes
-description: FAQ con información sobre la Lavandería Autoservicio de la Ciudad de los Ángeles
+title: FAQ
+description: Respuestas a las preguntas frecuentes sobre la Lavandería Autoservicio de la Ciudad de los Ángeles
 date: 2026-09-13
 type: page
 menu: main
