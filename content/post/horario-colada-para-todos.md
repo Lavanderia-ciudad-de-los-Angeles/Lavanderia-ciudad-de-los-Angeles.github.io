@@ -81,12 +81,14 @@ Da igual si eres madrugador, si tu único hueco es el mediodía o si prefieres l
 En **Lavandería Autoservicio Ciudad de los Ángeles** siempre habrá una lavadora y una secadora preparada para atenderte.
 
 **📍 Dirección:** Avenida Verbena de la Paloma, Nº 37, Madrid 
+
 **🕗 Horario:** Todos los días de 8:00 a 22:00 (sin cierre al mediodía) 
+
 **💳 Pago:** Monedas y tarjeta
 
 ---
 
-✨ **Tu tiempo es tuyo. Tu colada es nuestra especialidad.** 
-🧺 **Lavandería Autoservicio Ciudad de los Ángeles** 
-📍 **Avenida Verbena de la Paloma, Nº 37, Madrid** 
-🕗 **De 8:00 a 22:00, todos los días. Ven cuando quieras.** ✨
+* ✨ **Tu tiempo es tuyo. Tu colada es nuestra especialidad.** 
+* 🧺 **Lavandería Autoservicio Ciudad de los Ángeles** 
+* 📍 **Avenida Verbena de la Paloma, Nº 37, Madrid** 
+* 🕗 **De 8:00 a 22:00, todos los días. Ven cuando quieras.** ✨
